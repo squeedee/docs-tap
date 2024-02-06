@@ -12,7 +12,7 @@ Cartographer Conventions is composed of the convention controller and convention
 For more information, see [Overview of Cartographer Conventions](../../../cartographer-conventions/about.hbs.md).
 
 > **Note** conventions controller is bundled with the Cartographer Conventions package for
-Tanzu Application Platform v1.8 but it will be in a dedicated
+Tanzu Application Platform v1.8, however it will be in a dedicated
 package for Tanzu Application Platform v1.9.
 
 ## API
